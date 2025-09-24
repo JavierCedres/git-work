@@ -30,8 +30,7 @@ Aquí explicamos los objetivos que se pretenden alcanzar al realizar la práctic
 Enumeramos el material empleado tanto hardware como software y las conficuraciones que hacemos (configuraciones de red por ejemplo) 
 
 #### ***Desarrollo***. <a name="id4"></a>
-
-En esta parte explicamos detalladamente los pasos que seguimos para realizar la práctica incluyendo capturas de pantalla y explicando que vemos en ellas. 
+<img src="./files/imgs/CreaciónDelRepositorio_2.png"></img>
 
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
 
