@@ -35,6 +35,14 @@ Aquí explicamos los objetivos que se pretenden alcanzar al realizar la práctic
 #### ***Desarrollo***. <a name="id4"></a>
 <img src="./files/imgs/CreaciónDelRepositorio_2.png"></img>
 <img src="./files/imgs/ClonaciónDelRepo_3.png"></img>
+<img src="./files/imgs/CreacionFork_4.png"></img>
+<img src="./files/imgs/ClonacionFork_5.png"></img>
+<img src="./files/imgs/gitbranch_7.png"></img>
+<img src="./files/imgs/indexModificar_7.png"></img>
+<img src="./files/imgs/CreacionFork_4.png"></img>
+<img src="./files/imgs/CreacionFork_4.png"></img>
+
+
 
 
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
