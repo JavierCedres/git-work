@@ -35,11 +35,45 @@ Enumeramos el material empleado tanto hardware como software y las conficuracion
 
 ##### 1. Creación del repositorio
 <img src="./files/imgs/CreaciónDelRepositorio_2.png"></img>
-El primer que realizamos fue crear un repositorio llamado git-work sobre el cual trabajamos durante toda la práctica. 
 
-##### 2. Clonar el repositorio
+El primer que realizamos fue crear un repositorio llamado git-work que tuviese una licensia MIT y un README.md, sobre este repositiorio trabajamos durante toda la práctica. 
+
+##### 2. Clonar el repositorio y subir los ficheros correspondientes
 <img src="./files/imgs/ClonaciónDelRepo_3.png"></img>
-El siguiente paso es que el dueño del repositorio lo clone, tam
+
+El siguiente paso es que el dueño del repositorio lo clone.
+
+<img src="./files/imgs/ClonaciónDelRepo_3.png"></img>
+
+Luego de clonarlo, se suben los ficheros correspondientes al upstream como se indicaba en el enunciado.
+
+##### 5. Creación del issue "Add custom text for startup contents"
+<img src="./files/imgs/CreaciónDeIssue_6.png"></img>
+
+El dueño del repositorio crea un Issue desde Github llamado "Add custom text for startup contents".
+
+##### 8. Probar el PR, añadir repositorio remoto y subir cambios al PR
+<img src="./files/imgs/AddRepositorioRemoto_9.png"></img>
+
+Lo primero que hacemos es crear un repositorio remoto que apunte a el fork creado previamente.
+
+<img src="./files/imgs/fetchRepositorioRemoto_9-1.png"></img>
+
+Una vez añadido el repositorio remoto traemos los cambios realizados en este para comprobar que el código del PR funciona correctamente.
+
+<img src="./files/imgs/SubirCambiosAPR_9-2.png"></img>
+
+Luego de revisar el PR y añadir los cambios pertinentes subimos los cambios a ese Pull Request.
+
+##### 9. Conversación en el PR y adición de nuevos cambios
+
+<img src="./files/imgs/Conversación_10.png"></img>
+
+Se añaden varios comentarios en el código sobre cambios a realizar.
+
+<img src="./files/imgs/Conversación_10.png"></img>
+
+
 
 #### ***Conclusiones***. <a name="id5"></a>
 
