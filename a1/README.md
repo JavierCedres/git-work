@@ -47,8 +47,13 @@ El siguiente paso es que el dueño del repositorio lo clone.
 
 Luego de clonarlo, se suben los ficheros correspondientes al upstream como se indicaba en el enunciado.
 
-###### 3. Creación Repositorio Fork
+##### 3. Creación Repositorio Fork
+
 <img src="./files/imgs/CreacionFork_4.png"></img>
+
+
+
+##### 4. Clonación del Repositorio Fork
 
 <img src="./files/imgs/ClonacionFork_5.png"></img>
 
@@ -57,12 +62,12 @@ Luego de clonarlo, se suben los ficheros correspondientes al upstream como se in
 
 El dueño del repositorio crea un Issue desde GitHub llamado "Add custom text for startup contents".
 
-##### 6.
+##### 6. Rama Custom-Text
 
 <img src="./files/imgs/gitbranch_7.png"></img>
 <img src="./files/imgs/indexModificar_7.png"></img>
 
-##### 7.
+##### 7. Enviar PR Custom-Text
 
 <img src="./files/imgs/PullRequest_8.png"></img>
 <img src="./files/imgs/PullRequestSolicitada_8.png"></img>
@@ -98,7 +103,7 @@ Una vez revisado que el PR no tiene ningún error y cumple con las especificacio
 
 En el momento en el que se aprueba ya podemos hacer un merge para integrar los cambios del PR en la rama especificada en este, en este caso la rama principal. También se cierra el issue relacionado al poner **closes #1**.
 
-##### 11.
+##### 11. Incorporar Upstream
 
 <img src="./files/imgs/upstream-12.png"></img>
 
@@ -117,12 +122,12 @@ Al igual que se indica en la práctica se cambia el fichero cover.css
 
 Se suben los cambios al staging area y se hace un commit pero sin hacer push
 
-##### 15.
+##### 15. Rama Cool-Colors
 
 <img src="./files/imgs/nuevarama-16.png"></img>
 <img src="./files/imgs/css-16.png"></img>
 
-##### 16.
+##### 16. Enviar PR Cool-Colors
 
 <img src="./files/imgs/PR-17.png"></img>
 
