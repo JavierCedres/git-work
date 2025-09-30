@@ -53,6 +53,9 @@ Luego de clonarlo, se suben los ficheros correspondientes al upstream como se in
 
 El colaborador debe crear una copia del repositorio original, esto es lo que se conoce como fork.
 
+###### Dificultad encontrada: 
+-Se nos ha complicado el entender como funcionaba el fork para hacer que funcionase en el local, pero lo hemos resuelto buscando información.
+
 ##### 4. Clonación del Repositorio Fork
 
 <img src="./files/imgs/ClonacionFork_5.png"></img>
@@ -72,12 +75,17 @@ Siguiendo con los pasos que se indican en la imagen se tendrá que crear una nue
 
 <img src="./files/imgs/indexModificar_7.png"></img>
 
-Se personalizará el fichero index.html
+Se personalizará el fichero index.html, una vez modificado se guarda en la rama creada anteriormente.
 
 ##### 7. Enviar PR Custom-Text
 
 <img src="./files/imgs/PullRequest_8.png"></img>
+
+Cuando esté la rama terminada con los cambios requridos se hará un Pull Request indicando los cambios con titulo y una descripción para proporcionar información.
+
 <img src="./files/imgs/PullRequestSolicitada_8.png"></img>
+
+Se envia el Pull Request al repositorio original para que se puedan realizar las pruebas requeridas
 
 ##### 8. Probar el PR, añadir repositorio remoto y subir cambios al PR
 <img src="./files/imgs/AddRespositorioRemoto_9.png"></img>
@@ -114,12 +122,16 @@ En el momento en el que se aprueba ya podemos hacer un merge para integrar los c
 
 <img src="./files/imgs/upstream-12.png"></img>
 
+Ahora se tendrá que añadir a la rama principal del fork los cambios realizados del upstream principal
+
 ##### 12. Creación del Issue "Improve UX with cool colors"
+
 <img src="./files/imgs/CrearIssueColores_13.png"></img>
 
 Se crea un Issue llamado "Improve UX with cool colors".
 
 ##### 13. Cambiar el fichero cover.css
+
 <img src="./files/imgs/CambiarColor_14.png" alt="Subir foto"></img>
 
 Al igual que se indica en la práctica se cambia el fichero cover.css
