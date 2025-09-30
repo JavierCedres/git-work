@@ -24,7 +24,7 @@ Aquí explicamos brevemente la parte teórica que tiene que ver con la práctica
 
 #### ***Objetivos***. <a name="id2"></a>
 
-Aquí explicamos los objetivos que se pretenden alcanzar al realizar la práctica.
+Nuestro objetivo al realizar esta práctica ha sido repasar el funcionamiento del control de versiones, es decir, recordar como gestionar cambios sobre diversos elementos a lo largo del tiempo y como gestionar distintas versiones del código.
 
 #### ***Material empleado***. <a name="id3"></a>
 
@@ -32,11 +32,14 @@ Enumeramos el material empleado tanto hardware como software y las conficuracion
 
 #### ***Desarrollo***. <a name="id4"></a>
 
-En esta parte explicamos detalladamente los pasos que seguimos para realizar la práctica incluyendo capturas de pantalla y explicando que vemos en ellas. 
 
-> ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
+##### 1. Creación del repositorio
+<img src="./files/imgs/CreaciónDelRepositorio_2.png"></img>
+El primer que realizamos fue crear un repositorio llamado git-work sobre el cual trabajamos durante toda la práctica. 
 
-Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultades, que pasos hemos seguido para resolverla y los resultados obtenidos.
+##### 2. Clonar el repositorio
+<img src="./files/imgs/ClonaciónDelRepo_3.png"></img>
+El siguiente paso es que el dueño del repositorio lo clone, tam
 
 #### ***Conclusiones***. <a name="id5"></a>
 
