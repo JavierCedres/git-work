@@ -145,7 +145,7 @@ Se suben los cambios al staging area y se hace un commit pero sin hacer push
 
 <img src="./files/imgs/css-16.png"></img>
 
-Para esta parte habrá que volver a crear otra rama, pero esta vez cambiando una línea en expecifico.
+Para esta parte habrá que volver a crear otra rama, pero esta vez cambiando la misma línea que se había modificado en el paso anterior.
 
 <img src="./files/imgs/nuevarama-16.png"></img>
 
