@@ -20,13 +20,13 @@
 
 #### ***Introducción***. <a name="id1"></a>
 
--En esta practica trabajaremos el control de versiones en GitHub
+-En esta practica trabajaremos el control de versiones en GitHub.
 -Usuario 1: Javier
 -Usuario 2: Besay
 
 #### ***Objetivos***. <a name="id2"></a>
 
-Aquí explicamos los objetivos que se pretenden alcanzar al realizar la práctica.
+-El obetivo de esta practica es explorar como funciona el control de versiones desde Git-Hub.
 
 #### ***Material empleado***. <a name="id3"></a>
 
