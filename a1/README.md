@@ -71,7 +71,7 @@ El dueño del repositorio crea un Issue desde GitHub llamado "Add custom text fo
 
 <img src="./files/imgs/gitbranch_7.png"></img>
 
-Siguiendo con los pasos que se indican en la imagen se tendrá que crear una nueva rama, luego se posisiona en esta.
+Siguiendo con los pasos que se indican en la imagen se tendrá que crear una nueva rama, luego se posisionará en esta.
 
 <img src="./files/imgs/indexModificar_7.png"></img>
 
@@ -81,11 +81,11 @@ Se personalizará el fichero index.html, una vez modificado se guarda en la rama
 
 <img src="./files/imgs/PullRequest_8.png"></img>
 
-Cuando esté la rama terminada con los cambios requridos se hará un Pull Request indicando los cambios con titulo y una descripción para proporcionar información.
+Cuando esté la rama terminada con los cambios requridos se hará un Pull Request indicando los cambios con titulo y una descripción para proporcionar información a los participantes.
 
 <img src="./files/imgs/PullRequestSolicitada_8.png"></img>
 
-Se envia el Pull Request al repositorio original para que se puedan realizar las pruebas requeridas
+Se envia el Pull Request al repositorio original para que se puedan realizar las pruebas requeridas.
 
 ##### 8. Probar el PR, añadir repositorio remoto y subir cambios al PR
 <img src="./files/imgs/AddRespositorioRemoto_9.png"></img>
