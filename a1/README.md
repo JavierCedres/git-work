@@ -51,11 +51,13 @@ Luego de clonarlo, se suben los ficheros correspondientes al upstream como se in
 
 <img src="./files/imgs/CreacionFork_4.png"></img>
 
-
+El colaborador debe crear una copia del repositorio original, esto es lo que se conoce como fork.
 
 ##### 4. Clonación del Repositorio Fork
 
 <img src="./files/imgs/ClonacionFork_5.png"></img>
+
+El siguiente paso será clonar el fork a la maquina local para trabajar desde repositorio remoto.
 
 ##### 5. Creación del issue "Add custom text for startup contents"
 <img src="./files/imgs/CreaciónDeIssue_6.png"></img>
@@ -65,7 +67,12 @@ El dueño del repositorio crea un Issue desde GitHub llamado "Add custom text fo
 ##### 6. Rama Custom-Text
 
 <img src="./files/imgs/gitbranch_7.png"></img>
+
+Siguiendo con los pasos que se indican en la imagen se tendrá que crear una nueva rama, luego se posisiona en esta.
+
 <img src="./files/imgs/indexModificar_7.png"></img>
+
+Se personalizará el fichero index.html
 
 ##### 7. Enviar PR Custom-Text
 
