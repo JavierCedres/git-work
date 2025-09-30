@@ -39,8 +39,8 @@ Aquí explicamos los objetivos que se pretenden alcanzar al realizar la práctic
 <img src="./files/imgs/ClonacionFork_5.png"></img>
 <img src="./files/imgs/gitbranch_7.png"></img>
 <img src="./files/imgs/indexModificar_7.png"></img>
-<img src="./files/imgs/CreacionFork_4.png"></img>
-<img src="./files/imgs/CreacionFork_4.png"></img>
+<img src="./files/imgs/PullRequestSolicitada_8.png"></img>
+<img src="./files/imgs/PullRequest_8.png"></img>
 
 
 
