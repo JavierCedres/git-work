@@ -66,14 +66,39 @@ Una vez añadido el repositorio remoto traemos los cambios realizados en este pa
 Luego de revisar el PR y añadir los cambios pertinentes subimos los cambios a ese Pull Request.
 
 ##### 9. Conversación en el PR y adición de nuevos cambios
-
 <img src="./files/imgs/Conversación_10.png"></img>
 
 Se añaden varios comentarios en el código sobre cambios a realizar.
 
-<img src="./files/imgs/Conversación_10.png"></img>
+<img src="./files/imgs/ComentariosResueltos_10-3.png"></img>
 
+Se suben los cambios necesarios para cumplir con los comentarios anteriores.
 
+##### 10. Aprovar el PR y cerrar el issue
+<img src="./files/imgs/Approved_11.png"></img>
+
+Una vez revisado que el PR no tiene ningún error y cumple con las especificaciones necesarias se aprueba.
+
+<img src="./files/imgs/MergePR_11-1.png"></img>
+
+En el momento en el que se aprueba ya podemos hacer un merge para integrar los cambios del PR en la rama especificada en este, en este caso la rama principal. También se cierra el issue relacionado al poner **closes #1**.
+
+##### 12. Creación del Issue "Improve UX with cool colors"
+<img src="./files/imgs/CrearIssueColores_13.png"></img>
+
+Se crea un Issue llamado "Improve UX with cool colors".
+
+##### 13. Cambiar el fichero cover.css
+<img src="./files/imgs/_14.png" alt="Subir foto"></img>
+
+Al igual que se indica en la práctica se cambia el fichero cover.css
+
+##### 14. Subir cambios sin hacer push
+<img src="./files/imgs/CommitColor_15.png" alt="Subir foto"></img>
+
+Se suben los cambios al staging area y se hace un commit pero sin hacer push
+
+##### 17. Se prueban los cambios del nuevo PR 
 
 #### ***Conclusiones***. <a name="id5"></a>
 
