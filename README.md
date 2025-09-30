@@ -89,16 +89,46 @@ En el momento en el que se aprueba ya podemos hacer un merge para integrar los c
 Se crea un Issue llamado "Improve UX with cool colors".
 
 ##### 13. Cambiar el fichero cover.css
-<img src="./files/imgs/_14.png" alt="Subir foto"></img>
+<img src="./files/imgs/CambiarColor_14.png" alt="Subir foto"></img>
 
 Al igual que se indica en la práctica se cambia el fichero cover.css
 
 ##### 14. Subir cambios sin hacer push
-<img src="./files/imgs/CommitColor_15.png" alt="Subir foto"></img>
+<img src="./files/imgs/CommitColor_15.png"></img>
 
 Se suben los cambios al staging area y se hace un commit pero sin hacer push
 
-##### 17. Se prueban los cambios del nuevo PR 
+##### 17. Se prueban los cambios del nuevo PR y se arreglan los conflictos
+<img src="./files/imgs/AddRemote_18.png"></img>
+
+Anteriormente añadimos un repositorio remoto para poder ver en local los cambios realizados en el PR, en esta ocasión no sería necesario volver a hacerlo, pero en nuestro caso este paso lo realizamos desde una máquina distinta por ello tuvimos que volver a añadirlo. Una vez lo tenemos añadido nos traemos los cambios a local.
+
+<img src="./files/imgs/Merge_18-1.png"></img>
+
+Al intentar traernos los cambios podemos ver que se nos advierte de que hay conflictos que debemos resolver para poder subir los cambios.
+
+<img src="./files/imgs/Conflicto_18-2.png"></img>
+
+Gracias a Visual Studio Code los conflictos se pueden arreglar facilmente, solo debemos seleccionar en la parte superior de cada conflicto con que cambio queremos quedarnos. En nuestro caso queremos los cambios realizados por el usuario que envía el PR, por tanto nos quedamos con **Incoming Change**
+
+##### 18. Modificar text-shadow
+<img src="./files/imgs/TextShadow_19.png"></img>
+
+Una vez arreglado el conflicto, cambiamos el text-shadow en cover.css
+
+##### 19. Subir cambios en el cover.css y cerrar el Issue relacionado 
+<img src="./files/imgs/CommitTextShadow_20.png"></img>
+
+Subimos los cambios realizados y cerramos el Issue relacionado utilizando **closes #4**
+
+##### 20. Crear tag y release
+<img src="./files/imgs/CreateTag_21.png"></img>
+
+Al terminar de realizar todos los cambios necesarios etiquetaremos la versión actual de la aplicación como 0.1.0 y la subiremos a Github
+
+<img src="./files/imgs/CreateRelease_21-1.png"></img>
+
+Por último crearemos una release utilizando la etiqueta creada previamente
 
 #### ***Conclusiones***. <a name="id5"></a>
 
