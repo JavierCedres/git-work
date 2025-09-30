@@ -54,7 +54,7 @@ Luego de clonarlo, se suben los ficheros correspondientes al upstream como se in
 El colaborador debe crear una copia del repositorio original, esto es lo que se conoce como fork.
 
 ###### Dificultad encontrada: 
--Se nos ha complicado el entender como funcionaba el fork para hacer que funcionase en el local, pero lo hemos resuelto buscando información.
+-Se nos ha complicado el entender como funcionaba el fork para hacer que funcionase en local, pero lo hemos resuelto buscando información.
 
 ##### 4. Clonación del Repositorio Fork
 
@@ -122,7 +122,7 @@ En el momento en el que se aprueba ya podemos hacer un merge para integrar los c
 
 <img src="./files/imgs/upstream-12.png"></img>
 
-Ahora se tendrá que añadir a la rama principal del fork los cambios realizados del upstream principal
+Ahora se tendrá que añadir a la rama principal del fork los cambios realizados del upstream principal, simplemente tenemos que añadirlo como un repositorio remoto.
 
 ##### 12. Creación del Issue "Improve UX with cool colors"
 
@@ -143,14 +143,22 @@ Se suben los cambios al staging area y se hace un commit pero sin hacer push
 
 ##### 15. Rama Cool-Colors
 
-<img src="./files/imgs/nuevarama-16.png"></img>
 <img src="./files/imgs/css-16.png"></img>
+
+Para esta parte habrá que volver a crear otra rama, pero esta vez cambiando una línea en expecifico.
+
+<img src="./files/imgs/nuevarama-16.png"></img>
+
+Actualizamos los cambios a la rama mediante el repositorio remoto.
 
 ##### 16. Enviar PR Cool-Colors
 
 <img src="./files/imgs/PR-17.png"></img>
 
+Se vuelve a enviar otro PR para que se puedan verificar los cambios.
+
 ##### 17. Se prueban los cambios del nuevo PR y se arreglan los conflictos
+
 <img src="./files/imgs/AddRemote_18.png"></img>
 
 Anteriormente añadimos un repositorio remoto para poder ver en local los cambios realizados en el PR, en esta ocasión no sería necesario volver a hacerlo, pero en nuestro caso este paso lo realizamos desde una máquina distinta por ello tuvimos que volver a añadirlo. Una vez lo tenemos añadido nos traemos los cambios a local.
