@@ -68,7 +68,7 @@ El dueño del repositorio crea un Issue desde GitHub llamado "Add custom text fo
 <img src="./files/imgs/PullRequestSolicitada_8.png"></img>
 
 ##### 8. Probar el PR, añadir repositorio remoto y subir cambios al PR
-<img src="./files/imgs/AddRepositorioRemoto_9.png"></img>
+<img src="./files/imgs/AddRespositorioRemoto_9.png"></img>
 
 Lo primero que hacemos es crear un repositorio remoto que apunte al fork creado previamente.
 
