@@ -1,6 +1,6 @@
 <center>
 
-# TÍTULO DE LA PRÁCTICA
+# UT1-A1 Documentación y sistema de control de versiones
 
 
 </center>
@@ -19,7 +19,7 @@
 
 #### ***Introducción***. <a name="id1"></a>
 
-Aquí explicamos brevemente la parte teórica que tiene que ver con la práctica que se va a realizar
+-En esta practica trabajaremos el control de versiones en GitHub
 
 #### ***Objetivos***. <a name="id2"></a>
 
