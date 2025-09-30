@@ -24,7 +24,7 @@ Aquí explicamos brevemente la parte teórica que tiene que ver con la práctica
 
 #### ***Objetivos***. <a name="id2"></a>
 
-Nuestro objetivo al realizar esta práctica ha sido repasar el funcionamiento del control de versiones, es decir, recordar como gestionar cambios sobre diversos elementos a lo largo del tiempo y como gestionar distintas versiones del código.
+Nuestro objetivo al realizar esta práctica ha sido repasar el funcionamiento del control de versiones, es decir, recordar cómo gestionar cambios sobre diversos elementos a lo largo del tiempo y cómo gestionar distintas versiones del código.
 
 #### ***Material empleado***. <a name="id3"></a>
 
@@ -32,11 +32,10 @@ Enumeramos el material empleado tanto hardware como software y las conficuracion
 
 #### ***Desarrollo***. <a name="id4"></a>
 
-
 ##### 1. Creación del repositorio
 <img src="./files/imgs/CreaciónDelRepositorio_2.png"></img>
 
-El primer que realizamos fue crear un repositorio llamado git-work que tuviese una licensia MIT y un README.md, sobre este repositiorio trabajamos durante toda la práctica. 
+Lo primero que realizamos fue crear un repositorio llamado git-work que tuviese una licencia MIT y un README.md, sobre este repositorio trabajamos durante toda la práctica. 
 
 ##### 2. Clonar el repositorio y subir los ficheros correspondientes
 <img src="./files/imgs/ClonaciónDelRepo_3.png"></img>
@@ -50,12 +49,12 @@ Luego de clonarlo, se suben los ficheros correspondientes al upstream como se in
 ##### 5. Creación del issue "Add custom text for startup contents"
 <img src="./files/imgs/CreaciónDeIssue_6.png"></img>
 
-El dueño del repositorio crea un Issue desde Github llamado "Add custom text for startup contents".
+El dueño del repositorio crea un Issue desde GitHub llamado "Add custom text for startup contents".
 
 ##### 8. Probar el PR, añadir repositorio remoto y subir cambios al PR
 <img src="./files/imgs/AddRepositorioRemoto_9.png"></img>
 
-Lo primero que hacemos es crear un repositorio remoto que apunte a el fork creado previamente.
+Lo primero que hacemos es crear un repositorio remoto que apunte al fork creado previamente.
 
 <img src="./files/imgs/fetchRepositorioRemoto_9-1.png"></img>
 
@@ -74,7 +73,7 @@ Se añaden varios comentarios en el código sobre cambios a realizar.
 
 Se suben los cambios necesarios para cumplir con los comentarios anteriores.
 
-##### 10. Aprovar el PR y cerrar el issue
+##### 10. Aprobar el PR y cerrar el issue
 <img src="./files/imgs/Approved_11.png"></img>
 
 Una vez revisado que el PR no tiene ningún error y cumple con las especificaciones necesarias se aprueba.
@@ -109,7 +108,7 @@ Al intentar traernos los cambios podemos ver que se nos advierte de que hay conf
 
 <img src="./files/imgs/Conflicto_18-2.png"></img>
 
-Gracias a Visual Studio Code los conflictos se pueden arreglar facilmente, solo debemos seleccionar en la parte superior de cada conflicto con que cambio queremos quedarnos. En nuestro caso queremos los cambios realizados por el usuario que envía el PR, por tanto nos quedamos con **Incoming Change**
+Gracias a Visual Studio Code los conflictos se pueden arreglar fácilmente, solo debemos seleccionar en la parte superior de cada conflicto con qué cambio queremos quedarnos. En nuestro caso queremos los cambios realizados por el usuario que envía el PR, por tanto nos quedamos con **Incoming Change**
 
 ##### 18. Modificar text-shadow
 <img src="./files/imgs/TextShadow_19.png"></img>
