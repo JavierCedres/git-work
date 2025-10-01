@@ -20,19 +20,19 @@
 
 #### ***Introducción***. <a name="id1"></a>
 
--En esta practica trabajaremos el control de versiones en GitHub.
+- En esta práctica trabajaremos el control de versiones en GitHub.
 
--Usuario 1: Javier
+- Usuario 1: Javier
 
--Usuario 2: Besay
+- Usuario 2: Besay
 
 #### ***Objetivos***. <a name="id2"></a>
 
--Nuestro objetivo al realizar esta práctica ha sido repasar el funcionamiento del control de versiones, es decir, recordar cómo gestionar cambios sobre diversos elementos a lo largo del tiempo y cómo gestionar distintas versiones del código.
+- Nuestro objetivo al realizar esta práctica ha sido repasar el funcionamiento del control de versiones, es decir, recordar cómo gestionar cambios sobre diversos elementos a lo largo del tiempo y cómo gestionar distintas versiones del código.
 
 #### ***Material empleado***. <a name="id3"></a>
 
--Hemos utilizado dos maquinas Debian y la interfaz gráfica de la web de GitHub
+- Hemos utilizado dos maquinas Debian y la interfaz gráfica de la web de GitHub
 
 #### ***Desarrollo***. <a name="id4"></a>
 ##### 1. Creación del repositorio
@@ -56,7 +56,7 @@ Luego de clonarlo, se suben los ficheros correspondientes al upstream como se in
 El colaborador debe crear una copia del repositorio original, esto es lo que se conoce como fork.
 
 ###### Dificultad encontrada: 
--Se nos ha complicado el entender como funcionaba el fork para hacer que funcionase en local, pero lo hemos resuelto buscando información.
+- Se nos ha complicado el entender como funcionaba el fork para hacer que funcionase en local, pero lo hemos resuelto buscando información.
 
 ##### 4. Clonación del Repositorio Fork
 
@@ -191,10 +191,6 @@ Al terminar de realizar todos los cambios necesarios etiquetaremos la versión a
 <img src="./files/imgs/CreateRelease_21-1.png"></img>
 
 Por último crearemos una release utilizando la etiqueta creada previamente
-
-> ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
-
-Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultades, que pasos hemos seguido para resolverla y los resultados obtenidos.
 
 #### ***Conclusiones***. <a name="id5"></a>
 
