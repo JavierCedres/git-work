@@ -194,4 +194,5 @@ Por último crearemos una release utilizando la etiqueta creada previamente
 
 #### ***Conclusiones***. <a name="id5"></a>
 
-En esta parte debemos exponer las conclusiones que sacamos del desarrollo de la prácica.
+En esta práctica hemos recordado el funcionamiento del control de versiones y también aprendido funciones que no hemos usado antes.
+El control de versiones es muy útil a la hora de gestionar cambios sobre diversos elementos a lo largo del tiempo y versiones.
